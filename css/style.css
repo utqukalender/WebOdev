@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.slider-image {
+    height: 550px;
+}
+
+.align-center {
+    align-items: center;
+    width: 80%;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+}
+
+.align-center-form {
+    align-items: center;
+    width: 80%;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+}
+
+.no-link {
+    text-decoration: none;
+}
+
+.card-image-galeri {
+    height: 190px;
+}
